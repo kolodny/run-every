@@ -1,0 +1,28 @@
+{
+  "name": "run-every",
+  "version": "0.0.0",
+  "description": "run a command over and over",
+  "main": "index.js",
+  "bin": {
+    "run-every": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/run-every.git"
+  },
+  "keywords": [
+    "cli",
+    "watch",
+    "every",
+    "script"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolodny/run-every/issues"
+  },
+  "homepage": "https://github.com/kolodny/run-every#readme"
+}
